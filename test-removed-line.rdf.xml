@@ -1,0 +1,11 @@
+<pgterms:agent rdf:about="2009/agents/25492">
+	<pgterms:alias>Furniss, Henry</pgterms:alias>
+	<pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1854</pgterms:birthdate>
+	<pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1925</pgterms:deathdate>
+	<pgterms:name>Furniss, Harry</pgterms:name>
+</pgterms:agent>
+<pgterms:agent rdf:about="2009/agents/43201">
+<pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1944</pgterms:deathdate>
+<pgterms:name>Furniss, Dorothy</pgterms:name>
+<pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1879</pgterms:birthdate>
+</pgterms:agent>
